@@ -3,6 +3,8 @@
 string name;   //grobal variables
 vector<string> list;   //grobal vector
 
+
+
 int main(int arg_count, char *args[]) {   //int means the return charactor type of main function,   arg_count is int, args is strings  args[0]=program name; args[0]=first argument supplied by the user
 
     if(arg_count>1){
